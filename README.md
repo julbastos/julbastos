@@ -1,16 +1,59 @@
-## Hi there 👋
+# 👩‍💻 Julia Bastos
 
-<!--
-**julbastos/julbastos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedora Backend com experiência prática em desenvolvimento de APIs e sistemas utilizando tecnologias modernas. Atuei como estagiária na Prefeitura de Santo André, contribuindo para soluções digitais com foco em eficiência e escalabilidade.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+
+- 🎓 Experiência como **Desenvolvedora Backend (Estágio)**
+- 🏛️ Prefeitura de Santo André
+- 💡 Interesse em construção de APIs robustas e sistemas escaláveis
+- 🔎 Sempre buscando evoluir tecnicamente e aprender novas tecnologias
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+- **Linguagens:** Python  
+- **Frameworks:** FastAPI  
+- **Arquitetura:** APIs RESTful  
+- **Outros conhecimentos:**
+  - Integração de sistemas
+  - Manipulação de dados
+  - Boas práticas de desenvolvimento backend
+
+---
+
+## 💼 Experiência
+
+### 🏛️ Prefeitura de Santo André  
+**Estagiária - Desenvolvedora Backend**
+
+- Desenvolvimento e manutenção de APIs utilizando **FastAPI**
+- Implementação de funcionalidades backend para sistemas internos
+- Integração entre diferentes serviços e bases de dados
+- Apoio na melhoria de performance e organização de código
+
+---
+
+## 📈 Objetivos
+
+Busco oportunidades para atuar como desenvolvedora backend, contribuindo com soluções eficientes e escaláveis, além de continuar evoluindo minhas habilidades técnicas e profissionais.
+
+---
+
+## 📫 Contato
+
+- 💼 LinkedIn: [link](https://www.linkedin.com/in/j%C3%BAlia-bastos-53b240327/)
+- 📧 Email: juliabtsbrt2005@gmail.com
+
+---
+
+## ⭐ Curiosidades
+
+- Apaixonada por tecnologia e desenvolvimento de software
+- Gosto de resolver problemas complexos com soluções simples
+- Sempre explorando novas ferramentas e boas práticas
+
+---
