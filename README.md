@@ -1,4 +1,4 @@
-# Julia Bastos
+# Júlia Bastos
 
 Desenvolvedora Backend com experiência prática em desenvolvimento de APIs e sistemas utilizando tecnologias modernas. Atuei como estagiária na Prefeitura de Santo André, contribuindo para soluções digitais com foco em eficiência e escalabilidade.
 
@@ -39,7 +39,7 @@ Desenvolvedora Backend com experiência prática em desenvolvimento de APIs e si
 
 ## Objetivos
 
-Busco oportunidades para atuar como desenvolvedora backend, contribuindo com soluções eficientes e escaláveis, além de continuar evoluindo minhas habilidades técnicas e profissionais.
+Busco oportunidades para atuar como desenvolvedora, contribuindo com soluções eficientes e escaláveis, além de continuar evoluindo minhas habilidades técnicas e profissionais.
 
 ---
 
