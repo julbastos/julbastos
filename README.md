@@ -1,19 +1,19 @@
-# 👩‍💻 Julia Bastos
+# Julia Bastos
 
 Desenvolvedora Backend com experiência prática em desenvolvimento de APIs e sistemas utilizando tecnologias modernas. Atuei como estagiária na Prefeitura de Santo André, contribuindo para soluções digitais com foco em eficiência e escalabilidade.
 
 ---
 
-## 🚀 Sobre mim
+## Sobre mim
 
-- 🎓 Experiência como **Desenvolvedora Backend (Estágio)**
-- 🏛️ Prefeitura de Santo André
-- 💡 Interesse em construção de APIs robustas e sistemas escaláveis
-- 🔎 Sempre buscando evoluir tecnicamente e aprender novas tecnologias
+- Experiência como **Desenvolvedora Backend (Estágio)**
+- Prefeitura de Santo André
+- Interesse em construção de APIs robustas e sistemas escaláveis
+- Sempre buscando evoluir tecnicamente e aprender novas tecnologias
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 
 - **Linguagens:** Python  
 - **Frameworks:** FastAPI  
@@ -25,9 +25,9 @@ Desenvolvedora Backend com experiência prática em desenvolvimento de APIs e si
 
 ---
 
-## 💼 Experiência
+## Experiência
 
-### 🏛️ Prefeitura de Santo André  
+### Prefeitura de Santo André  
 **Estagiária - Desenvolvedora Backend**
 
 - Desenvolvimento e manutenção de APIs utilizando **FastAPI**
@@ -37,20 +37,20 @@ Desenvolvedora Backend com experiência prática em desenvolvimento de APIs e si
 
 ---
 
-## 📈 Objetivos
+## Objetivos
 
 Busco oportunidades para atuar como desenvolvedora backend, contribuindo com soluções eficientes e escaláveis, além de continuar evoluindo minhas habilidades técnicas e profissionais.
 
 ---
 
-## 📫 Contato
+## Contato
 
-- 💼 LinkedIn: [link](https://www.linkedin.com/in/j%C3%BAlia-bastos-53b240327/)
-- 📧 Email: juliabtsbrt2005@gmail.com
+- LinkedIn: [link](https://www.linkedin.com/in/j%C3%BAlia-bastos-53b240327/)
+- Email: juliabtsbrt2005@gmail.com
 
 ---
 
-## ⭐ Curiosidades
+## Curiosidades
 
 - Apaixonada por tecnologia e desenvolvimento de software
 - Gosto de resolver problemas complexos com soluções simples
