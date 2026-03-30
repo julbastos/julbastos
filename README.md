@@ -50,10 +50,3 @@ Busco oportunidades para atuar como desenvolvedora, contribuindo com soluções 
 
 ---
 
-## Curiosidades
-
-- Apaixonada por tecnologia e desenvolvimento de software
-- Gosto de resolver problemas complexos com soluções simples
-- Sempre explorando novas ferramentas e boas práticas
-
----
