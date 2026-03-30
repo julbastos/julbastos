@@ -7,7 +7,6 @@ Desenvolvedora Backend com experiência prática em desenvolvimento de APIs e si
 ## Sobre mim
 
 - Experiência como **Desenvolvedora Backend (Estágio)**
-- Prefeitura de Santo André
 - Interesse em construção de APIs robustas e sistemas escaláveis
 - Sempre buscando evoluir tecnicamente e aprender novas tecnologias
 
